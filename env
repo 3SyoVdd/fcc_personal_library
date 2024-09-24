@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://mz7U0:x7ktSskGVdqx3maVsAA2@cluster0.r82dgj3.mongodb.net/?retryWrites=true&w=majority
+NODE_ENV=test
